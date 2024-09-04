@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-white">
+    <main className="flex min-h-screen flex-col  bg-white">
       <div className="z-10 w-full max-w-5xl  font-mono text-sm lg:flex">
         <p className="fixed left-0 top-0 flex w-full justify-center  from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-white dark:from-inherit lg:static lg:w-auto  lg:rounded-xl  lg:bg-white lg:p-4 lg:dark:bg-white">
           <Image
@@ -22,7 +22,7 @@ export default function Home() {
           backgroundSize: "cover",
           flexDirection: "column",
           // backgroundRepeat: "no-repeat",
-          width: "95%",
+          width: "100%",
           height: 1000,
           borderRadius: 20,
           display: "flex",
