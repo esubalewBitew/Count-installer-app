@@ -21,7 +21,6 @@ export default function Home() {
           backgroundImage: "url('/CountBG.png')",
           backgroundSize: "cover",
           flexDirection: "column",
-
           width: "100%",
           height: 1000,
           borderRadius: 20,
