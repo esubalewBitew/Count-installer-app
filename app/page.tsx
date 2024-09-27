@@ -8,7 +8,7 @@ export default function Home() {
         <p className="fixed left-0 top-0 flex w-full justify-center  from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-white dark:from-inherit lg:static lg:w-auto  lg:rounded-xl  lg:bg-white lg:p-4 lg:dark:bg-white">
           <Image
             src="/Count logo 1.png"
-            alt="Count Logo"
+            alt="Count Logo "
             width={100}
             height={24}
             priority
