@@ -31,8 +31,8 @@ export default function Home() {
           <Image
             src="/Group 1261153123.png"
             alt="COUNT Label Logo"
-            width={1000}
-            height={1000}
+            width={1001}
+            height={1001}
             style={{ marginTop: 100 }}
           />
         </div>
