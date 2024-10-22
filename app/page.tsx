@@ -46,7 +46,7 @@ export default function Home() {
             }}
             className="text-black"
           >
-            Download COUNT Go Mobile App Here.
+            Download COUNT Go Mobile App Here
           </h1>
         </div>
         <div className="flex flex-col items-center mt-10 lg:flex-row lg:justify-center">
